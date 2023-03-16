@@ -31,5 +31,7 @@
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",DEFAULT=NO,AUTOSELECT=YES,NAME="Tiếng Hàn",LANGUAGE="KO",URI="https://raw.githubusercontent.com/khaihoan017497/road_home/main/ep_9/Korean.vtt.m3u?ver=4"
 
 #EXT-QQHLS-STREAM-KEYID:road_home_ep_9
-#EXT-X-STREAM-INF:BANDWIDTH=1000000000,SUBTITLES="subs"
-https://raw.githubusercontent.com/khaihoan017497/road_home/main/ep_9/index.m3u
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2561457,SUBTITLES="subs",RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.64001f,mp4a.40.2"
+https://europe.olemovienews.com/ts2/20230316/hGdemJwi/mp4/hGdemJwi.mp4/index-v1-a1.m3u8
+
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=64975,RESOLUTION=1280x720,CODECS="avc1.64001f",URI="https://europe.olemovienews.com/ts2/20230316/hGdemJwi/mp4/hGdemJwi.mp4/iframes-v1-a1.m3u8"
